@@ -5,4 +5,5 @@
     min-height: 500px;
     max-height: 500px;
     border: 1px lightgrey solid;
+    background-image: url(../../src/assets/eye.jpg);
   }
